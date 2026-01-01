@@ -47,7 +47,7 @@ export default function Demo() {
 
         <div className="flex justify-center mt-4">
           <a
-            href="https://agora.stagira.com"
+            href="https://agora.stagiralabs.com"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block px-5 py-2 rounded border border-stagira-indigo text-stagira-indigo hover:bg-stagira-indigo hover:text-papyrus-white transition-colors cursor-hover"
